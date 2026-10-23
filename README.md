@@ -49,5 +49,7 @@ Because this project is built as a single-file zero-dependency PWA, setting it u
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-   cd YOUR_REPO_NAME
+  1. **Clone the Repository:**
+   ```bash
+git clone https://github.com/nirereprovidence12-oss/-Retail-Daily-Ledger-AI.git
+cd "-Retail-Daily-Ledger-AI"
